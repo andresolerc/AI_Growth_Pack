@@ -1,5 +1,7 @@
 #to run this project, you will need to run these commands.
 
-python -m venv myenv
-source myenv/bin/activate  # On Windows, use `myenv\Scripts\activate`
-pip install streamlit langchain youtube-transcript-api openai tiktoken
+python -m venv myenv #to install enviroment
+source myenv/bin/activate  #to run environment On Windows, use `myenv\Scripts\activate` 
+pip install streamlit langchain youtube-transcript-api openai tiktoken #to install required libraries
+
+streamlit run yt_summary_app.py #to run the app
