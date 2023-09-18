@@ -1,0 +1,5 @@
+#to run this project, you will need to run these commands.
+
+python -m venv myenv
+source myenv/bin/activate  # On Windows, use `myenv\Scripts\activate`
+pip install streamlit langchain youtube-transcript-api openai tiktoken
