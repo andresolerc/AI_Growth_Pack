@@ -26,7 +26,9 @@ pip install matplotlib networkx
 
 Simply run the script to view the mind map for "Module 1: Introduction to Chatbots and AI". The visualization displays the main topic and its associated subtopics, showcasing their relationship.
 
-##📝 Why I Share This? Mind maps are powerful tools for understanding and conveying complex information. Whether you're designing a course, mapping out a book, or visualizing an organizational structure, networkx simplifies the process.
+## 📝 Why I Share This? 
+
+Mind maps are powerful tools for understanding and conveying complex information. Whether you're designing a course, mapping out a book, or visualizing an organizational structure, networkx simplifies the process.
 
 ## 👩‍💻 Want to take action? 
 
