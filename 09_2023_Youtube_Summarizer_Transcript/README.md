@@ -57,3 +57,20 @@ streamlit run yt_summary_app.py
 ## Note
 
 Make sure to replace the placeholder `"YOUR_OPENAI_API_KEY"` with your actual OpenAI API key in the `yt_summary_app.py` file.
+
+## 📝 Why I Share This? 
+
+Langchain is a powerful framework for working with multiple LLMs. Whether you want to extract information from a video, mapping out a collection of videos, or summarizing videos for later to chat with them, Langchain simplifies the process.
+
+## 👩‍💻 Want to take action? 
+
+Drop a comment or send me a message! Always happy to chat about Python and Langchain.
+
+## Andy Soler
+
+P.S. If you're excited about unlocking the potential of AI for your career, you're not alone. Every week, I share actionable insights and steps on leveraging AI for career advancement. It's a quick read that could make all the difference in your professional journey. Be part of an active community of over 1200+ professionals who are all focused on harnessing the power of AI. 👇 
+
+https://bit.ly/3r9p2Do
+
+#machinelearning #artificialintelligence #technology #amsterdam #careers #innovation #python #business #dataengineering #hr #coaching
+
