@@ -22,29 +22,29 @@ The YouTube Video Summarizer is an application built with Streamlit that takes a
 ### Installation
 
 1. Create a virtual environment:
-\```bash
+```bash
 python -m venv myenv
-\```
+```
 
 2. Activate the virtual environment:
 - On macOS/Linux:
-\```bash
+```bash
 source myenv/bin/activate
-\```
+```
 - On Windows:
-\```bash
+```bash
 myenv\Scripts\activate
-\```
+```
 
 3. Install the required libraries:
-\```bash
+```bash
 pip install streamlit langchain youtube-transcript-api openai tiktoken
-\```
+```
 
 4. Run the app:
-\```bash
+```bash
 streamlit run yt_summary_app.py
-\```
+```
 
 ### Usage
 
