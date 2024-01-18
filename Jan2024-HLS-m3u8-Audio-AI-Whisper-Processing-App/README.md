@@ -51,6 +51,9 @@ The AI Media Processing App is packed with a range of features designed to enhan
     
 - **Quick and Efficient Processing**: With the power of Python and its libraries, the app processes content in real-time, ensuring a smooth and efficient user experience.
 
+### Stay updated with the latest on our project by subscribing to our AI Growth Pack Newsletter
+[**Subscribe Here!**](https://aigrowthpack.substack.com)
+
 ## Technical Overview
     
 ## Technical Overview
@@ -280,4 +283,8 @@ The AI Media Processing App is developed and shared with the primary intention o
 - **Accuracy of Content**: While we strive to ensure the accuracy and reliability of the app's functionalities, we do not guarantee the absolute correctness of the output. The app should be used as a supplement to learning, not as the sole source of educational content.
 - **Respect Intellectual Property**: Users of the app should ensure they respect intellectual property rights. Any content processed through the app should be used in a lawful manner, adhering to copyright laws and fair use policies.
 - **Changes and Modifications**: The developers reserve the right to modify or discontinue the app at any time without prior notice. We are committed to continuous improvement and adaptation to enhance its educational value.
+
+### Stay updated with the latest on our project by subscribing to our AI Growth Pack Newsletter
+[**Subscribe Here!**](https://aigrowthpack.substack.com)
+
 
