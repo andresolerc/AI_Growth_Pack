@@ -53,26 +53,26 @@ The AI Media Processing App is packed with a range of features designed to enhan
 
 ## Technical Overview
     
-    ## Technical Overview
+## Technical Overview
     
-    The AI Media Processing App is a symphony of advanced technologies and programming excellence, all brought together by the power of Python. Here’s a breakdown of the key technologies we use and how Python plays a crucial role in integrating them into a cohesive application.
+The AI Media Processing App is a symphony of advanced technologies and programming excellence, all brought together by the power of Python. Here’s a breakdown of the key technologies we use and how Python plays a crucial role in integrating them into a cohesive application.
     
-    ### Streamlit
+### Streamlit
     
-    - **Streamlit for Web Interfaces**: Our app uses Streamlit, an open-source Python library, to create a clean, intuitive web interface. Streamlit simplifies turning data scripts into shareable web apps, allowing us to focus on functionality without worrying about the intricacies of web development.
+- **Streamlit for Web Interfaces**: Our app uses Streamlit, an open-source Python library, to create a clean, intuitive web interface. Streamlit simplifies turning data scripts into shareable web apps, allowing us to focus on functionality without worrying about the intricacies of web development.
     
-    ### yt-dlp
+### yt-dlp
     
-    - **Video Processing with yt-dlp**: At the core of our video processing capability is yt-dlp, a Python command-line tool that downloads media from various sources. It’s essential for extracting videos, which are then processed for audio extraction. yt-dlp's versatility and efficiency in handling different video formats make it a key component of our app.
+- **Video Processing with yt-dlp**: At the core of our video processing capability is yt-dlp, a Python command-line tool that downloads media from various sources. It’s essential for extracting videos, which are then processed for audio extraction. yt-dlp's versatility and efficiency in handling different video formats make it a key component of our app.
     
-    ### Whisper
+### Whisper
     
-    - **Audio Transcription Using Whisper**: For audio transcription, we employ Whisper, an automatic speech recognition system developed by OpenAI. Integrated into our app through Python, Whisper accurately transcribes audio files into text, which is vital for creating accessible educational content.
+- **Audio Transcription Using Whisper**: For audio transcription, we employ Whisper, an automatic speech recognition system developed by OpenAI. Integrated into our app through Python, Whisper accurately transcribes audio files into text, which is vital for creating accessible educational content.
     
-    ### Python: The Integrating Force
+### Python: The Integrating Force
     
-    - **Python's Central Role**: Python is more than just a programming language for our app; it's the glue that binds everything together. Its ability to seamlessly integrate different technologies like Streamlit, yt-dlp, and Whisper is what makes our app both powerful and efficient. Python's vast library ecosystem and its straightforward syntax enable rapid development and ease of maintenance.
-    - **Efficiency and Scalability**: With Python, we’ve built an app that is not only efficient in processing but also scalable. Python's flexibility allows us to continually improve and adapt our app, ensuring it meets the evolving demands of educational technology.
+- **Python's Central Role**: Python is more than just a programming language for our app; it's the glue that binds everything together. Its ability to seamlessly integrate different technologies like Streamlit, yt-dlp, and Whisper is what makes our app both powerful and efficient. Python's vast library ecosystem and its straightforward syntax enable rapid development and ease of maintenance.
+- **Efficiency and Scalability**: With Python, we’ve built an app that is not only efficient in processing but also scalable. Python's flexibility allows us to continually improve and adapt our app, ensuring it meets the evolving demands of educational technology.
 
 ## Getting Started
 
