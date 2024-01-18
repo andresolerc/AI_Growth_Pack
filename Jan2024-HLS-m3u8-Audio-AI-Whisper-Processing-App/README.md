@@ -2,54 +2,54 @@
 
 ## Introduction
         
-    Welcome to the AI Media Processing App, a educational tool designed to revolutionize the way we interact with digital learning materials. This app shows the power and versatility of Python in modern application development.
+Welcome to the AI Media Processing App, a educational tool designed to revolutionize the way we interact with digital learning materials. This app shows the power and versatility of Python in modern application development.
     
-    ### Purpose of the App
+### Purpose of the App
     
-    The AI Media Processing App is crafted to make educational content more accessible and engaging. The app enables users to extract and transcribe audio from video sources, transforming spoken words into written text. This feature opens up new possibilities for educators and learners alike, offering a novel way to interact with educational material.
+The AI Media Processing App is crafted to make educational content more accessible and engaging. The app enables users to extract and transcribe audio from video sources, transforming spoken words into written text. This feature opens up new possibilities for educators and learners alike, offering a novel way to interact with educational material.
 
-    Stay updated with the latest on our project by subscribing to our AI Growth Pack Newsletter
+Stay updated with the latest on our project by subscribing to our AI Growth Pack Newsletter
     [![Subscribe](link-to-your-button-image)](https://aigrowthpack.substack.com)
 
     
-    ### Python's Role
+### Python's Role
     
-    Python forms the backbone of our application. We leverage Python's rich ecosystem, including libraries like Streamlit for intuitive web interfaces, yt-dlp for efficient video processing, and Whisper for accurate audio transcription. These tools, powered by Python, allow us to seamlessly integrate various technologies into a cohesive, user-friendly educational tool.
+Python forms the backbone of our application. We leverage Python's rich ecosystem, including libraries like Streamlit for intuitive web interfaces, yt-dlp for efficient video processing, and Whisper for accurate audio transcription. These tools, powered by Python, allow us to seamlessly integrate various technologies into a cohesive, user-friendly educational tool.
     
-    In essence, the AI Media Processing App is not just about processing media; it's about reshaping the landscape of digital education, making learning more accessible and interactive. Join us in exploring the capabilities of this remarkable application and discover how Python is redefining educational technology.
+In essence, the AI Media Processing App is not just about processing media; it's about reshaping the landscape of digital education, making learning more accessible and interactive. Join us in exploring the capabilities of this remarkable application and discover how Python is redefining educational technology.
     
 
 ## Features
         
-    The AI Media Processing App is packed with a range of features designed to enhance the educational experience through technology. Here's a glimpse into what our app offers:
+The AI Media Processing App is packed with a range of features designed to enhance the educational experience through technology. Here's a glimpse into what our app offers:
     
-    ### Video Processing
+### Video Processing
     
-    - **Efficient Video Extraction**: Utilizing yt-dlp, our app can extract video from various online sources, ensuring compatibility with a wide range of formats.
-    - **High-Quality Audio Extraction**: The app is equipped to isolate and extract high-quality audio from video files, laying the groundwork for accurate transcription.
+- **Efficient Video Extraction**: Utilizing yt-dlp, our app can extract video from various online sources, ensuring compatibility with a wide range of formats.
+- **High-Quality Audio Extraction**: The app is equipped to isolate and extract high-quality audio from video files, laying the groundwork for accurate transcription.
     
-    ### Audio Transcription
+### Audio Transcription
     
-    - **Advanced AI-Driven Transcription**: Powered by Whisper, the app transcribes audio content into text with remarkable accuracy, making it ideal for educational purposes.
+- **Advanced AI-Driven Transcription**: Powered by Whisper, the app transcribes audio content into text with remarkable accuracy, making it ideal for educational purposes.
     - **Multiple Language Support**: Catering to a diverse user base, our transcription service can handle multiple languages, breaking down barriers in learning and communication.
     
-    ### User Interface
+### User Interface
     
-    - **Intuitive Interface with Streamlit**: The app boasts a user-friendly interface, thanks to Streamlit. Users can easily navigate through the app, input video URLs, and access transcribed content with minimal hassle.
+- **Intuitive Interface with Streamlit**: The app boasts a user-friendly interface, thanks to Streamlit. Users can easily navigate through the app, input video URLs, and access transcribed content with minimal hassle.
     
-    ### Accessibility and Inclusivity
+### Accessibility and Inclusivity
     
-    - **Enhanced Accessibility**: By converting audio and video content into text, the app makes learning more accessible, especially for individuals with hearing impairments.
-    - **Inclusive Learning**: The text-based content can be easily translated into various languages, making the app an inclusive tool in global education.
+- **Enhanced Accessibility**: By converting audio and video content into text, the app makes learning more accessible, especially for individuals with hearing impairments.
+- **Inclusive Learning**: The text-based content can be easily translated into various languages, making the app an inclusive tool in global education.
     
-    ### Customization and Flexibility
+### Customization and Flexibility
     
-    - **Flexible Content Management**: Users have the flexibility to manage the processed content – be it saving, editing, or sharing the transcribed text.
-    - **Customizable Settings**: The app allows users to customize various settings, such as language preferences and transcription accuracy, to suit their specific needs.
+- **Flexible Content Management**: Users have the flexibility to manage the processed content – be it saving, editing, or sharing the transcribed text.
+- **Customizable Settings**: The app allows users to customize various settings, such as language preferences and transcription accuracy, to suit their specific needs.
     
-    ### Real-Time Processing
+### Real-Time Processing
     
-    - **Quick and Efficient Processing**: With the power of Python and its libraries, the app processes content in real-time, ensuring a smooth and efficient user experience.
+- **Quick and Efficient Processing**: With the power of Python and its libraries, the app processes content in real-time, ensuring a smooth and efficient user experience.
 
 ## Technical Overview
     
