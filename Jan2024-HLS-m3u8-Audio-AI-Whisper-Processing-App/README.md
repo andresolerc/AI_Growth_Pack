@@ -8,8 +8,8 @@ Welcome to the AI Media Processing App, a educational tool designed to revolutio
     
 The AI Media Processing App is crafted to make educational content more accessible and engaging. The app enables users to extract and transcribe audio from video sources, transforming spoken words into written text. This feature opens up new possibilities for educators and learners alike, offering a novel way to interact with educational material.
 
-Stay updated with the latest on our project by subscribing to our AI Growth Pack Newsletter
-    [![Subscribe](link-to-your-button-image)](https://aigrowthpack.substack.com)
+###Stay updated with the latest on our project by subscribing to our AI Growth Pack Newsletter
+    [![**Subscribe**]](https://aigrowthpack.substack.com)
 
     
 ### Python's Role
