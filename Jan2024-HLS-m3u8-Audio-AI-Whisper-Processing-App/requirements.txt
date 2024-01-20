@@ -1,2 +1,2 @@
 yt-dlp==2021.12.1
-whisper==0.1.0
+openai-whisper==0.1.0
